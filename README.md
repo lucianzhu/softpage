@@ -2,7 +2,13 @@
 
 荞麦工作室 · Qiaomai Studio 的 Chrome 扩展：按网站柔化明亮背景，提供可选的图片显示柔化。
 
-当前版本：**0.1.19**。Chrome Web Store 上架仍在准备中；目前可按下方说明在本地安装。
+当前版本：**0.1.19**。可从 GitHub 下载并按下方说明在本地安装。
+
+## 下载
+
+**[下载柔页 0.1.19 ZIP](https://github.com/lucianzhu/softpage/releases/download/v0.1.19/softpage-0.1.19.zip)** · [版本说明与所有下载](https://github.com/lucianzhu/softpage/releases)
+
+解压后选择包内的 `softpage` 文件夹加载。无需编译；不是一键安装，也不会自动更新。请长期保留安装文件夹。Chrome Web Store 是未来的另一个安装渠道，不影响 GitHub 下载和版本更新。
 
 ## 功能
 
@@ -57,7 +63,13 @@
 
 Softpage is a Chrome extension by Qiaomai Studio that softens bright page backgrounds on a per-site basis, with optional image-display softening.
 
-**Version: 0.1.19.** Chrome Web Store publication is being prepared; local installation instructions are provided below. The extension interface is currently in Chinese.
+**Version: 0.1.19.** Download from GitHub and install locally using the instructions below. The extension interface is currently in Chinese.
+
+### Download
+
+**[Download Softpage 0.1.19 ZIP](https://github.com/lucianzhu/softpage/releases/download/v0.1.19/softpage-0.1.19.zip)** · [Release notes and all downloads](https://github.com/lucianzhu/softpage/releases)
+
+Extract the ZIP and load the included `softpage` folder. No build step is required. This is not one-click installation and does not auto-update; keep the installation folder in a permanent location. Chrome Web Store will be a separate installation channel; GitHub downloads and releases are maintained independently.
 
 ### Features and installation
 
