@@ -1,6 +1,14 @@
 # 柔页 · Softpage
 
-荞麦工作室 · Qiaomai Studio 的 Chrome 扩展：按网站柔化明亮背景，提供可选的图片显示柔化。
+让明亮的网页柔和一点，让长时间阅读少一些刺眼感。
+
+柔页是荞麦工作室 · Qiaomai Studio 开发的 Chrome 扩展。它将网页中过于明亮的背景调整为柔和底色，缓和大面积亮背景与文字之间的强烈反差，同时尽量保留文字和链接的辨识度。
+
+如果你常在 X 阅读动态，或在 ChatGPT、DeepSeek、豆包等 AI 网站阅读长篇回答，柔页希望为这样的日常阅读场景提供一种更舒适的显示选择。它不是这些平台的官方产品，具体效果会随网页样式变化，不代表已逐一验证所有网站兼容性。
+
+我们准备了三种柔和底色：**豆沙绿、羊皮纸、亮暖灰**，也支持自定义颜色。你可以按网站决定是否开启：默认不启用任何网站，只有你主动选择“为此网站开启”并授予所需的网站访问权限后，柔页才会调整该网站的显示。已经授权并开启的网站会记住你的选择，无需每次重复操作。
+
+柔页只改变网页显示，不修改原始内容；“护眼”是设计出发点，不是预防眼病或改善视力的医学承诺。
 
 当前版本：**0.1.19**。可从 GitHub 下载并按下方说明在本地安装。
 
@@ -65,7 +73,15 @@
 
 ## English
 
-Softpage is a Chrome extension by Qiaomai Studio that softens bright page backgrounds on a per-site basis, with optional image-display softening.
+Softer pages, less glare during long reading sessions.
+
+Softpage is a Chrome extension by Qiaomai Studio. It replaces overly bright page backgrounds with gentler colors, easing the stark contrast between large bright surfaces and text while aiming to keep text and links readable.
+
+Whether you read posts on X or long answers on AI websites such as ChatGPT, DeepSeek, and Doubao, Softpage is designed with these everyday reading situations in mind. It is not an official product of these platforms. Results depend on page styling; mentioning a website does not mean its compatibility has been individually verified.
+
+Choose from three gentle background colors—**bean-paste green, parchment, and light warm gray**—or use your own. You stay in control: no websites are enabled by default. Softpage adjusts a site only after you choose to enable it and grant the required site access. Your choice is remembered for sites that remain authorized and enabled.
+
+Softpage changes the display, not the original content. Visual comfort is its design goal, not a medical claim to prevent eye disease or improve eyesight.
 
 **Version: 0.1.19.** Download from GitHub and install locally using the instructions below. The extension interface is currently in Chinese.
 
