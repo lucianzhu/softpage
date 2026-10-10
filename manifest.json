@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "柔页 · Softpage",
+  "version": "0.1.19",
+  "description": "按网站柔化明亮背景，可选柔化图片显示，保留文字和链接辨识度。",
+  "permissions": [
+    "storage",
+    "scripting",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "src/worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "柔页",
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon128.png"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "optional_host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
