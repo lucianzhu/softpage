@@ -12,6 +12,22 @@
 
 当前版本：**0.1.19**。可从 GitHub 下载并按下方说明在本地安装。
 
+## 效果预览
+
+以下是使用柔页后手动截取的页面，展示三种底色的实际显示效果。截图仅作外观示例，不代表与相关平台存在合作或对所有页面的兼容保证。
+
+**X · 豆沙绿**
+
+![X 页面应用柔页豆沙绿底色后的截图](docs/screenshots/x.png)
+
+**ChatGPT · 亮暖灰**
+
+![ChatGPT 页面应用柔页亮暖灰底色后的截图](docs/screenshots/chatgpt.png)
+
+**DeepSeek · 羊皮纸**
+
+![DeepSeek 页面应用柔页羊皮纸底色后的截图](docs/screenshots/deepseek.png)
+
 ## 下载
 
 **[下载柔页 0.1.19 ZIP](https://github.com/lucianzhu/softpage/releases/download/v0.1.19/softpage-0.1.19.zip)** · [版本说明与所有下载](https://github.com/lucianzhu/softpage/releases)
@@ -84,6 +100,10 @@ Choose from three gentle background colors—**bean-paste green, parchment, and 
 Softpage changes the display, not the original content. Visual comfort is its design goal, not a medical claim to prevent eye disease or improve eyesight.
 
 **Version: 0.1.19.** Download from GitHub and install locally using the instructions below. The extension interface is currently in Chinese.
+
+### Screenshots
+
+See the [screenshots above](#效果预览) for manually captured examples: X in bean-paste green, ChatGPT in light warm gray, and DeepSeek in parchment. These are visual examples, not platform endorsements or guarantees of compatibility with every page.
 
 ### Download
 
