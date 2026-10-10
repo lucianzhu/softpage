@@ -18,6 +18,10 @@
 - 图片柔化默认关闭，可调整强度；只改变显示，不修改原图文件。
 - 偏好保存在本机，不使用 Chrome 同步存储。
 
+## 浏览器兼容性
+
+柔页目前仅在 Google Chrome 中进行过实际测试。Microsoft Edge 及其他基于 Chromium 的浏览器尚未测试，不保证能够正常安装或完整运行。欢迎通过 GitHub Issues 反馈，并注明浏览器名称、版本和遇到的问题；请勿提交敏感信息或未脱敏截图。
+
 ## 本地安装
 
 1. 下载并解压项目，找到包含 `manifest.json` 的文件夹。
@@ -70,6 +74,10 @@ Softpage is a Chrome extension by Qiaomai Studio that softens bright page backgr
 **[Download Softpage 0.1.19 ZIP](https://github.com/lucianzhu/softpage/releases/download/v0.1.19/softpage-0.1.19.zip)** · [Release notes and all downloads](https://github.com/lucianzhu/softpage/releases)
 
 Extract the ZIP and load the included `softpage` folder. No build step is required. This is not one-click installation and does not auto-update; keep the installation folder in a permanent location. Chrome Web Store will be a separate installation channel; GitHub downloads and releases are maintained independently.
+
+### Browser compatibility
+
+Softpage has only been tested in Google Chrome. Microsoft Edge and other Chromium-based browsers have not been tested; successful installation and full functionality are not guaranteed. Feedback through GitHub Issues is welcome. Please include your browser name, version, and the issue encountered, without sensitive information or unredacted screenshots.
 
 ### Features and installation
 
